@@ -12,5 +12,10 @@
     "browser-sync": "^2.26.12",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "magnific-popup": "^1.1.0",
+    "normalize.css": "^8.0.1",
+    "slick-carousel": "^1.8.1"
   }
 }
