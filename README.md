@@ -11,4 +11,5 @@ To use this project build the following files are needed:
 * all files in app folder
 * gulpfile.js
 * package.json
+
 Run $npm install command in project directory.
